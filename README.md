@@ -1,6 +1,6 @@
 👋 Hi, I’m Maikel!
 
-🌱 I’m currently learning Unity 3D
+🌱 I’m currently studying game programming at Saxion University of Applied Sciences
 
 📫 Reach me on https://twitter.com/lekiam25
 
